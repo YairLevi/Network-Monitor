@@ -1,4 +1,4 @@
-![placeholder-image](https://github.com/YairLevi/Network-Monitor/blob/main/Capture.png?raw=true)
+![placeholder-image](https://github.com/YairLevi/Network-Monitor/main/Capture.PNG?raw=true)
 
 # Network Monitor
 
