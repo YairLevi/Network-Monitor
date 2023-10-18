@@ -1,3 +1,5 @@
+![placeholder-image](https://github.com/YairLevi/Network-Monitor/blob/main/Capture.png?raw=true)
+
 # Network Monitor
 
 This app provides LAN users to share and view other users' network bandwidth usage.
