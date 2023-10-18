@@ -1,5 +1,3 @@
-![placeholder-image](https://github.com/YairLevi/Network-Monitor/main/Capture.PNG?raw=true)
-
 # Network Monitor
 
 This app provides LAN users to share and view other users' network bandwidth usage.
@@ -19,3 +17,5 @@ If you can build the app on a Mac, and install `NPcap` or some alternative to ma
 ## Usage
 Run the server from somewhere, change the address to meet your network.
 Then, build the app using `npm run dist`, and enjoy.
+
+![placeholder-image](https://github.com/YairLevi/Network-Monitor/blob/main/Capture.PNG)
